@@ -1,4 +1,4 @@
 # jay-
 this is my first repository
 
-author jaybind kumar
+author-jaybind kumar
